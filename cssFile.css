@@ -41,7 +41,7 @@ section {
 	overflow: auto;
 }
 
-#chicken {
+.chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -55,7 +55,7 @@ section {
 	background-color: #33EEFF;
 }
 
-#beef {
+.beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
